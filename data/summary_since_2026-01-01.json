@@ -1,0 +1,143 @@
+{
+  "pulled_at_utc": "2026-10-01T17:58:13.301766",
+  "window_start": "2026-01-01",
+  "api_pages": 5,
+  "closed_proposals_total": 4364,
+  "shielded_proposals": 146,
+  "shielded_share_pct": 3.35,
+  "shielded_votes_total": 5969,
+  "spaces_using_shielded": 47,
+  "shielded_by_month": {
+    "2026-01": 20,
+    "2026-02": 19,
+    "2026-03": 11,
+    "2026-04": 12,
+    "2026-05": 15,
+    "2026-06": 24,
+    "2026-07": 16,
+    "2026-08": 17,
+    "2026-09": 12
+  },
+  "all_by_month": {
+    "2026-01": 654,
+    "2026-02": 844,
+    "2026-03": 498,
+    "2026-04": 525,
+    "2026-05": 425,
+    "2026-06": 438,
+    "2026-07": 417,
+    "2026-08": 352,
+    "2026-09": 211
+  },
+  "top_25_spaces_by_shielded_proposals": [
+    [
+      "shapeshiftdao.eth",
+      17
+    ],
+    [
+      "ododao.eth",
+      17
+    ],
+    [
+      "forgottengov.eth",
+      7
+    ],
+    [
+      "shutterdao0x36.eth",
+      7
+    ],
+    [
+      "gridphantoms.eth",
+      7
+    ],
+    [
+      "suzuverse-dao.eth",
+      7
+    ],
+    [
+      "dynamicdao.eth",
+      6
+    ],
+    [
+      "fabien.eth",
+      5
+    ],
+    [
+      "influenc.eth",
+      4
+    ],
+    [
+      "giv.eth",
+      4
+    ],
+    [
+      "rocketstarfoundation.eth",
+      4
+    ],
+    [
+      "likerland.eth",
+      4
+    ],
+    [
+      "latticegov.eth",
+      4
+    ],
+    [
+      "wampei.eth",
+      4
+    ],
+    [
+      "sporkdao.eth",
+      4
+    ],
+    [
+      "reserveprotocol.eth",
+      3
+    ],
+    [
+      "phlomisimpactfund1.eth",
+      3
+    ],
+    [
+      "paraswap-dao.eth",
+      3
+    ],
+    [
+      "shibdao.eth",
+      2
+    ],
+    [
+      "ens.eth",
+      2
+    ],
+    [
+      "atxdao.eth",
+      2
+    ],
+    [
+      "echelonassembly.eth",
+      2
+    ],
+    [
+      "ethos-labs.eth",
+      2
+    ],
+    [
+      "ethereumfuture.eth",
+      2
+    ],
+    [
+      "cpoty.eth",
+      2
+    ]
+  ],
+  "shielded_by_type": {
+    "single-choice": 36,
+    "basic": 63,
+    "ranked-choice": 10,
+    "weighted": 9,
+    "quadratic": 24,
+    "copeland": 2,
+    "approval": 2
+  }
+}
