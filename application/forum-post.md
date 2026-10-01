@@ -13,7 +13,7 @@ Category: SD 0x36 Proposals. Tags: proposal, feedback_requested.
 
 **Primary contact / forum handle:** @Ashg
 
-**Social handle (X and/or LinkedIn):** YOUR_X_OR_LINKEDIN
+**Social handle (X and/or LinkedIn):** https://www.linkedin.com/in/ashwin-goyal-8940a8327
 
 **GitHub profile:** https://github.com/let-the-dreamers-rise
 
@@ -159,7 +159,15 @@ No new cryptography, no changes to Snapshot or Shutter code, no lobbying. ENS's 
 
 ### Why this applicant
 
-Independent builder and analyst. Relevant public work: `brier` (a stratified analysis of dispute rates across 3,464 settled Polymarket markets, with z-scores and an explicit warning against reading pooled rows), `veridict` and `germline-avalanche` (commit-reveal workflows deployed on public testnets with explorer-linked evidence), `rein` (verified contracts on three testnets with an honest-status section). The method here is the same as `brier`: public data, pre-stated strata, reproducible numbers, limits stated up front. All repositories are at https://github.com/let-the-dreamers-rise.
+Independent builder and analyst (Navi Mumbai). The work this grant needs is careful public-data analysis, reproducible pipelines, and writing that survives review. Verifiable track record of exactly that:
+
+* **Merged upstream PR to bitcoin/bips (PR #2273, September 2026):** found and fixed two reliability bugs in the BIP-360 reference implementation (an unbounded Merkle depth producing consensus-invalid outputs, and input validation that `python -O` silently strips) using an independent differential-testing suite built from the specification alone: 16 of 16 official vectors, 2,000 of 2,000 randomised trees, 27 of 27 adversarial mutation cases in CI. That is the same discipline this grant promises: pre-stated checks, every number regenerable, negative findings published.
+* **`brier`:** a stratified analysis of dispute rates across 3,464 settled Polymarket markets, with z-scores and an explicit warning against reading pooled rows. Same method as the evidence pack, different dataset.
+* **`veridict` and `germline-avalanche`:** commit-reveal workflows deployed on public testnets with explorer-linked evidence, so I know what Shutter's threshold encryption replaces.
+* **`rein`:** verified contracts on three testnets, 84 tests, a deterministic 182-day simulation whose CI fails unless output reproduces byte for byte, and an honest-status section listing what is not audited.
+* Day job in production data work (preprocessing, feature engineering and held-out validation for predictive models in Python and pandas, shipped through code review).
+
+All repositories are at https://github.com/let-the-dreamers-rise.
 
 ---
 
