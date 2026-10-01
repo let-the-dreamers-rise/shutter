@@ -11,7 +11,7 @@ Category: SD 0x36 Proposals. Tags: proposal, feedback_requested.
 
 **Applicant name or organization:** Ashwin Goyal (independent contributor)
 
-**Primary contact / forum handle:** @YOUR_FORUM_HANDLE
+**Primary contact / forum handle:** @Ashg
 
 **Social handle (X and/or LinkedIn):** YOUR_X_OR_LINKEDIN
 
@@ -213,4 +213,4 @@ Note on tooling: the application and the analysis code are prepared with AI-assi
 
 I confirm that the information in this application is accurate to the best of my knowledge; that I have disclosed relevant prior compensation and conflicts; and that I understand any award remains subject to the published process and DAO approval.
 
-**Name / handle:** Ashwin Goyal / @YOUR_FORUM_HANDLE
+**Name / handle:** Ashwin Goyal / @Ashg
